@@ -1,4 +1,7 @@
 ### Unsupervised Image Segmentation Using Features Learned from Convolutional Auto-encoder
+
+Some useful features from images have been learned by training a deep convolutional Auto-encoder. We performed feature transform using PCA. Finally, mean shift clustering algorithm was implemented to segment images in an unsupervised way.
+
 1) __EDISON segmentation__:
      image segmentation based on EDISON toolbox
     
