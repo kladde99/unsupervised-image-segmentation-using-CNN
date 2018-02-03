@@ -5,13 +5,13 @@ Some useful features from images have been learned by training a deep convolutio
 1) __EDISON segmentation__:
      image segmentation based on EDISON toolbox
     
-2) __Mean_shift_horse_alternative__:
+2) __Mean shift horse alternative__:
      A alternative trial for mean shift clustering under Weizmann horse dataset
     
-3) __Training_BSDS500__:
+3) __Training BSDS500__:
      code for training network under BSDS 500 dataset
     
-4) __Training_horse__:
+4) __Training horse__:
      code for training network under Weizmann horse dataset
     
 5) __Visualization PCA features__:
